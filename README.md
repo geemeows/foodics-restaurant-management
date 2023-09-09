@@ -1,7 +1,7 @@
 ### 📦 References
-📌 **Task Description:** [Restaurant Reservation System](https://foodics.notion.site/foodics/Restaurant-Reservation-System-590ff5162e3c42ac97c5106026e00bb0)
-🎨 **Design Link:** [Restaurant Reservation System](https://foodics.notion.site/foodics/Restaurant-Reservation-System-590ff5162e3c42ac97c5106026e00bb0)
-🚀 **Deployed Link:** N/A
+- 📌 **Task Description:** [Restaurant Reservation System](https://foodics.notion.site/foodics/Restaurant-Reservation-System-590ff5162e3c42ac97c5106026e00bb0)
+- 🎨 **Design Link:** [Restaurant Reservation System](https://foodics.notion.site/foodics/Restaurant-Reservation-System-590ff5162e3c42ac97c5106026e00bb0)
+- 🚀 **Deployed Link:** N/A
 
 ### 📖 Repo Context
 This repo contains an implementation for the requirements mentioned in the link above. I've used `vite`, `vue@3`, `tailwind`, `@headlessui/vue`, and `@heroicons/vue` to 
